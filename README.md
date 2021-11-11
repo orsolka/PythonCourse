@@ -1,1 +1,2 @@
 # PythonCourse
+#studing is great
